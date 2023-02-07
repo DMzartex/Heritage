@@ -1,0 +1,14 @@
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\bin\Debug\netcoreapp3.1\EX2_Chien.exe
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\bin\Debug\netcoreapp3.1\EX2_Chien.deps.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\bin\Debug\netcoreapp3.1\EX2_Chien.runtimeconfig.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\bin\Debug\netcoreapp3.1\EX2_Chien.runtimeconfig.dev.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\bin\Debug\netcoreapp3.1\EX2_Chien.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\bin\Debug\netcoreapp3.1\EX2_Chien.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\EX2_Chien\EX2_Chien\obj\Debug\netcoreapp3.1\EX2_Chien.genruntimeconfig.cache
