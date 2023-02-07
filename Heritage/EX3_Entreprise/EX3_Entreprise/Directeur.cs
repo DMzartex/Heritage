@@ -29,7 +29,7 @@ namespace EX3_Entreprise
             _pourcentage = pourcentage;
         }
 
-        public override double calcSalaire()
+        public override double CalcSalaire()
         {
             double salaire = (ChiffreAffaire * Pourcentage) / 100;
             return salaire;

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XK9IAp21p8klkitTuATCSzCCGpcvfDToLL5CVeBLKfUtB5eqtaQlnFBtQPLZ8MsAMuscH1CMqheOcDWh5twbPQ==",
+  "dgSpecHash": "fNrqCwuSQSpSmWfSvtD2+gSvdFjNXNlxhSUSsM+LWE7sK+JTnUoqTsft4ODFVcU7j99Rgk7xMzfRe31Ok7qLxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\Heritage\\EX2_Chien\\EX2_Chien\\EX2_Chien.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Doria\\Desktop\\Heritage\\Heritage\\EX2_Chien\\EX2_Chien\\EX2_Chien.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
   "logs": []
 }

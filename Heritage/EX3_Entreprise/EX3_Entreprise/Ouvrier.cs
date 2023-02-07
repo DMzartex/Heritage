@@ -19,7 +19,7 @@ namespace EX3_Entreprise
             _dateEntree = dateEntree;
         }
 
-        public double calcDate()
+        public double CalcDate()
         {
             DateTime date = DateTime.Now;
             TimeSpan diff = date.Subtract(DateEntree);
@@ -27,9 +27,9 @@ namespace EX3_Entreprise
             return years;
         }
 
-        public override double calcSalaire()
+        public override double CalcSalaire()
         {
-           double annee = calcDate();
+           double annee = CalcDate();
            double salaire = 2500; 
            
             for(int i = 0; i < annee - 1; i++)

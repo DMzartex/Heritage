@@ -19,7 +19,7 @@ namespace EX3_Entreprise
             _indice = indice;
         }
 
-        public override double calcSalaire()
+        public override double CalcSalaire()
         {
             double salaire = 0;
             switch (Indice)

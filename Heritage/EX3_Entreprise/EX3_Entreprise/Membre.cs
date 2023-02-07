@@ -47,7 +47,7 @@ namespace EX3_Entreprise
 			_birthdayDate = birthdayDate;
 		}
 
-        public string afficheSalaire(double salaire)
+        public string AfficheSalaire(double salaire)
         {
             string result = "Le salaire de l'ouvrier est de : " + salaire + " écus";
             return result;
@@ -58,7 +58,7 @@ namespace EX3_Entreprise
 			return result;
         }
 
-        public virtual double calcSalaire()
+        public virtual double CalcSalaire()
         {
             double salaire = 0;
             return salaire;

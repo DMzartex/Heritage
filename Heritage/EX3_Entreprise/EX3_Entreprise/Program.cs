@@ -28,7 +28,7 @@ namespace EX3_Entreprise
             for(int x = 0; x < mesPersonnes.Length; x++)
             {
                 Console.WriteLine(mesPersonnes[x].AfficheCaracteristique());
-                Console.WriteLine(mesPersonnes[x].afficheSalaire(mesPersonnes[x].calcSalaire()));
+                Console.WriteLine(mesPersonnes[x].AfficheSalaire(mesPersonnes[x].CalcSalaire()));
             }
 
             Console.ReadLine();

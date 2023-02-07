@@ -26,3 +26,17 @@ C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\Herita
 C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.dll
 C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.pdb
 C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.genruntimeconfig.cache
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.dll
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.pdb
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\bin\Debug\netcoreapp3.1\EX3_Entreprise.exe
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\bin\Debug\netcoreapp3.1\EX3_Entreprise.deps.json
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\bin\Debug\netcoreapp3.1\EX3_Entreprise.runtimeconfig.json
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\bin\Debug\netcoreapp3.1\EX3_Entreprise.runtimeconfig.dev.json
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\bin\Debug\netcoreapp3.1\EX3_Entreprise.dll
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\bin\Debug\netcoreapp3.1\EX3_Entreprise.pdb
+C:\Users\Doria\Desktop\Heritage\Heritage\EX3_Entreprise\EX3_Entreprise\obj\Debug\netcoreapp3.1\EX3_Entreprise.genruntimeconfig.cache
